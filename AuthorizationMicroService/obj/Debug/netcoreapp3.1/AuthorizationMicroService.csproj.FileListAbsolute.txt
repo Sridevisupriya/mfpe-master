@@ -198,3 +198,4 @@ C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroServ
 C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
 C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml

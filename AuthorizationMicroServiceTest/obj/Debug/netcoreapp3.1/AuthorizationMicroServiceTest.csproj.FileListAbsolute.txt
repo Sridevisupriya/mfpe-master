@@ -257,3 +257,4 @@ C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroServ
 C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroServiceTest\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
 C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroServiceTest\obj\Debug\netcoreapp3.1\AuthorizationMicroServiceTest.csproj.CopyComplete
 C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroServiceTest\obj\Debug\netcoreapp3.1\AuthorizationMicroServiceTest.genruntimeconfig.cache
+C:\Users\Devi\Source\Repos\MFPE\mfpe-master\Authorization\AuthorizationMicroServiceTest\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
